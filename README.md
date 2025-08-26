@@ -1,4 +1,4 @@
 # malinikamath.github.io
 
-<< Malini Kamath >>
-<< SI 338 Fall 2025
+Malini Kamath \n
+SI 338 Fall 2025
